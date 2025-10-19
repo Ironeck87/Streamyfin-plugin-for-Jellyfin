@@ -11,7 +11,7 @@ It sets sane client defaults and enables notifications without changing Jellyfin
 ## Files
 
 - `streamyfin.yaml` — the plugin configuration I apply in Jellyfin (sanitized).
-- (optional) `examples/` — webhook payloads I use for Jellyseerr.
+- `examples/` — webhook payloads I use for Jellyseerr.
 
 ---
 
