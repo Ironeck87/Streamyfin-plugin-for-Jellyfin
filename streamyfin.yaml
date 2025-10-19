@@ -1,0 +1,83 @@
+notifications:
+  sessionStarted:
+    enabled: false
+  playbackStarted:
+    enabled: false
+  userLockedOut:
+    enabled: false
+  itemAdded:
+    enabled: true
+    recentEventThreshold: 600
+settings:
+  home:
+    locked: false
+    value: {}
+  forwardSkipTime:
+    locked: false
+    value: 30
+  rewindSkipTime:
+    locked: false
+    value: 15
+  rememberAudioSelections:
+    locked: false
+    value: false
+  subtitleMode:
+    locked: false
+    value: Default
+  rememberSubtitleSelections:
+    locked: false
+    value: false
+  subtitleSize:
+    locked: false
+    value: 80
+  autoRotate:
+    locked: false
+    value: true
+  defaultVideoOrientation:
+    locked: false
+    value: Default
+  safeAreaInControlsEnabled:
+    locked: false
+    value: false
+  showCustomMenuLinks:
+    locked: false
+    value: false
+  hiddenLibraries:
+    locked: false
+  disableHapticFeedback:
+    locked: false
+    value: false
+  defaultBitrate:
+    locked: false
+  enableRightSideVolumeSwipe:
+    locked: false
+    value: true
+  downloadMethod:
+    locked: true
+    value: remux
+  remuxConcurrentLimit:
+    locked: true
+    value: Four
+  autoDownload:
+    locked: false
+    value: false
+  optimizedVersionsServerUrl:
+    locked: false
+    value: ''
+  jellyseerrServerUrl:
+    locked: true
+    value: https://YOUR_JELLYSEERR_URL
+  searchEngine:
+    locked: false
+    value: Jellyfin
+  marlinServerUrl:
+    locked: false
+    value: ''
+  libraryOptions:
+    locked: false
+    value:
+      display: list
+      cardStyle: detailed
+      imageStyle: poster
+      showTitles: true
+      showStats: true
