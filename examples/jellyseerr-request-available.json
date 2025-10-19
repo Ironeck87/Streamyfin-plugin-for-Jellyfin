@@ -1,0 +1,7 @@
+[
+  {
+    "title": "{{subject}} is now available",
+    "body": "Tap to watch",
+    "username": "{{notifyuser_username}}"
+  }
+]
